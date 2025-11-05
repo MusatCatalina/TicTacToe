@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TicTacToe
+Tic Tac Toe este un joc clasic de strategie pentru doi jucători, unde scopul este să aliniezi trei simboluri identice pe rând, coloană sau diagonală înaintea adversarului.
+>>>>>>> a83593df9818ecfa8b43abe3dfcf2a09cf3f9afa
